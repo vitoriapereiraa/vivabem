@@ -243,7 +243,7 @@
                                         <a href="about.html">sobre</a>
                                     </li>
                                     <li class="menu-item-has-children">
-                                        <a href="#">treinos</a>
+                                        <a href="/treino">treinos</a>
 
                                     </li>
                                 </ul>
@@ -272,7 +272,7 @@
 
                                     </li>
                                     <li>
-                                        <a href="contact.html">Contato</a>
+                                        <a href="/contato">Contato</a>
                                     </li>
                                 </ul>
                             </nav>

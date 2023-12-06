@@ -136,49 +136,49 @@
             <div class="row gy-4 justify-content-center">
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="portfolio-thumb">
-                        <a class="popup-image icon-btn" href="assets/img/instagram/insta_feed1.png"><i class="far fa-eye"></i></a>
+                        <a class="popup-image icon-btn" href="assets/img/feed1.png"><i class="far fa-eye"></i></a>
                         <img src="assets/img/feed1.png" alt="portfolio">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="portfolio-thumb">
-                        <a class="popup-image icon-btn" href="assets/img/instagram/insta_feed2.png"><i class="far fa-eye"></i></a>
+                        <a class="popup-image icon-btn" href="assets/img/feed2.png"><i class="far fa-eye"></i></a>
                         <img src="assets/img/feed2.png" alt="portfolio">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="portfolio-thumb">
-                        <a class="popup-image icon-btn" href="assets/img/instagram/insta_feed3.png"><i class="far fa-eye"></i></a>
+                        <a class="popup-image icon-btn" href="assets/img/feed4.png"><i class="far fa-eye"></i></a>
                         <img src="assets/img/feed4.png" alt="portfolio">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="portfolio-thumb">
-                        <a class="popup-image icon-btn" href="assets/img/instagram/insta_feed4.png"><i class="far fa-eye"></i></a>
+                        <a class="popup-image icon-btn" href="assets/img/feed5.png"><i class="far fa-eye"></i></a>
                         <img src="assets/img/feed5.png" alt="portfolio">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="portfolio-thumb">
-                        <a class="popup-image icon-btn" href="assets/img/instagram/insta_feed5.png"><i class="far fa-eye"></i></a>
+                        <a class="popup-image icon-btn" href="assets/img/feed6.png"><i class="far fa-eye"></i></a>
                         <img src="assets/img/feed6.png" alt="portfolio">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="portfolio-thumb">
-                        <a class="popup-image icon-btn" href="assets/img/instagram/insta_feed6.png"><i class="far fa-eye"></i></a>
+                        <a class="popup-image icon-btn" href="assets/img/feed7.png"><i class="far fa-eye"></i></a>
                         <img src="assets/img/feed7.png" alt="portfolio">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="portfolio-thumb">
-                        <a class="popup-image icon-btn" href="assets/img/instagram/insta_feed7.png"><i class="far fa-eye"></i></a>
+                        <a class="popup-image icon-btn" href="assets/img/feed8.png"><i class="far fa-eye"></i></a>
                         <img src="assets/img/feed8.png" alt="portfolio">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="portfolio-thumb">
-                        <a class="popup-image icon-btn" href="assets/img/instagram/insta_feed8.png"><i class="far fa-eye"></i></a>
+                        <a class="popup-image icon-btn" href="assets/img/feed9.png"><i class="far fa-eye"></i></a>
                         <img src="assets/img/feed9.png" alt="portfolio">
                     </div>
                 </div>
